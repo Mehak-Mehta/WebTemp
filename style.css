@@ -1,0 +1,66 @@
+body{
+    background-image: url(../html/light.jpg);
+    background-size: cover;
+}
+
+.box1{
+    color:rgb(81, 46, 107);
+}
+
+.sidebar{
+    width: 100px;
+    height:75vh;
+    background: linear-gradient(rgb(53, 56, 218),rgb(81, 46, 107),black)
+    ;
+    position:absolute;
+    right: 0%;
+    
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover{
+    color: powderblue;
+}
+
+ button{
+    background: transparent;
+    border: 2px white solid;
+    border-radius: 20px;
+    padding: 5px 10px;
+    right: 0;
+    margin: 5px;
+    
+}
+
+.box1{
+    color: rgb(75, 59, 165);
+    font: 48px Arial Helvetica normal;
+    margin: 10px 0 30px;
+    transform: translateY(-50%);
+    z-index: 2;
+    top: 50%;
+    left: 8%;
+    position:absolute;
+    line-height: 80px;}
+
+
+h2{
+    color: aliceblue;
+    font: 20px Arial Helvetica normal;
+
+}
+
+.dark{
+    width: 85%;
+    height: 15%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color:rgb(75, 59, 165);
+
+}
