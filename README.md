@@ -7,6 +7,6 @@ Website template
  2. I still don't know Javascript.
 
 # How to run?
-I don't really know
+I don't really know.
  
 
