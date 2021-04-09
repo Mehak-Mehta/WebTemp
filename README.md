@@ -6,7 +6,9 @@ Website template
  1. This is just a template.
  2. I still don't know Javascript.
 
-# 
+# What does it look like?
+ ![light](https://user-images.githubusercontent.com/76558546/114166385-48ecaf80-994b-11eb-8b93-4279bf9f45f8.jpg)
+
  ![darkmode](https://user-images.githubusercontent.com/76558546/114166192-0cb94f00-994b-11eb-867c-135a4695229f.jpg)
 
 
