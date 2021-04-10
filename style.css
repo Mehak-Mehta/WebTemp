@@ -2,7 +2,6 @@ body{
     background-image: url(../html/light.jpg);
     background-size: cover;
 }
-
 .box1{
     color:rgb(81, 46, 107);
 }
@@ -33,9 +32,7 @@ a:hover{
     padding: 5px 10px;
     right: 0;
     margin: 5px;
-    
 }
-
 .box1{
     color: rgb(75, 59, 165);
     font: 48px Arial Helvetica normal;
@@ -46,12 +43,9 @@ a:hover{
     left: 8%;
     position:absolute;
     line-height: 80px;}
-
-
 h2{
     color: aliceblue;
     font: 20px Arial Helvetica normal;
-
 }
 
 .dark{
@@ -62,5 +56,4 @@ h2{
     align-items: center;
     justify-content: space-between;
     color:rgb(75, 59, 165);
-
 }
