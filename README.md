@@ -17,7 +17,7 @@ Website template
 
 
 
-# How To Run?
+# How To Run
 We'll figure it out.
 
 
