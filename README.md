@@ -2,8 +2,6 @@
 
 Website template
 
-# Note
-  I still don't know Javascript.
 
 # What does it look like?
 
