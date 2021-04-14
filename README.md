@@ -3,7 +3,7 @@
 Website template
 
 
-# What does it look like?
+# What does it look like
 
  ![darkmode](https://user-images.githubusercontent.com/76558546/114166192-0cb94f00-994b-11eb-867c-135a4695229f.jpg)
  
