@@ -10,12 +10,4 @@ issues, pull requests Welcome :)
  
  ![light](https://user-images.githubusercontent.com/76558546/114166385-48ecaf80-994b-11eb-8b93-4279bf9f45f8.jpg)
 
- 
- 
- 
 
-
-
-# How To Run
-
-Click <a href="file:///E:/html/index2.html">Here</a> to run
