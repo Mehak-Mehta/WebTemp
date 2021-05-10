@@ -17,11 +17,5 @@ issues, pull requests Welcome :)
 
 
 # How To Run
-We'll figure it out.
 
-
-
-
-
-
-
+Click <a href="file:///E:/html/index2.html">Here</a> to run
