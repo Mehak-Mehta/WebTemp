@@ -1,7 +1,7 @@
 # WebTemp
 
 Website template.
-issues, pull requests Welcome :)
+Contributions Welcome :)
 
 
 # What does it look like
